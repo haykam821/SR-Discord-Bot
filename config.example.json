@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "challenges": {
+        "challenge1": {
+            "name": "Challenge 1",
+            "description": "This is the first challenge.",
+            "icon": ":trophy:"
+        }
+    }
+}
