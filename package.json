@@ -1,0 +1,25 @@
+{
+  "name": "sr-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for the Slime Rancher guild on Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slime",
+    "rancher",
+    "discord",
+    "guild",
+    "bot",
+    "discord.js",
+    "commando"
+  ],
+  "author": "haykam821",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0",
+    "sqlite": "^2.9.2"
+  }
+}
